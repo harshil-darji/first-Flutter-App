@@ -1,6 +1,6 @@
-# my_first_app
+# Quiz app using Flutter
 
-A new Flutter project.
+A very basic app that asks a few questions, user selects answers. It then calculates a score based on the answers and throws a result text screen. A reset button is there on the result screen that can be used to restart the quiz.
 
 ## Getting Started
 
